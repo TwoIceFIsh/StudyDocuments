@@ -25,6 +25,9 @@ Windows Socket
 # 2019-01-01
 자료구조 및 알고리즘(Circular Linked List)
 
+# 2019-01-02  
+자료구조 및 알고리즘(스택)
+
 
 
 
