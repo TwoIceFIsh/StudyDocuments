@@ -211,7 +211,10 @@ Setting
 Parcing 
 
 # 2019-03-06     
-eGISEC2019
+eGISEC2019 
+
+# 2019-03-07     
+Chinese translation
 
 
 
