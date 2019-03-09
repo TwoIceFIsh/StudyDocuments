@@ -38,28 +38,28 @@ Windows Socket
 길찾기 알고리즘
 
 # 2019-01-06  
-윈도우 API
+Windows API
 
 # 2019-01-07  
-휴식  
+Rest  
 
 # 2019-01-08  
-자바  
+JAVA  
 
 # 2019-01-09  
-자바  
+JAVA  
 
 # 2019-01-10   
-자바  
+JAVA  
 
 # 2019-01-11   
-자바  
+JAVA  
 
 # 2019-01-12   
-운영체제    
+OS    
 
 # 2019-01-13   
-프로그램     
+Programming     
 
 # 2019-01-14  
 PE  
@@ -218,6 +218,10 @@ Chinese translation
 
 # 2019-03-08     
 Searching Security Words
+
+# 2019-03-09     
+Rest
+
 
 
 
