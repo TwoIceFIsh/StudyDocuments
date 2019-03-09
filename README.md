@@ -220,7 +220,11 @@ Chinese translation
 Searching Security Words
 
 # 2019-03-09     
-Rest
+Rest  
+
+# 2019-03-10     
+JP/EN/CN
+
 
 
 
