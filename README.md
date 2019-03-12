@@ -229,6 +229,9 @@ JP/EN/CN
 DB-Exploit  
 
 
+# 2019-03-12     
+XSS  
+
 
 
 
