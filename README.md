@@ -200,6 +200,10 @@ CVE-2019-5418 환경구성
 CVE-2019-5418 분석  
 # 2019-04-05   
 CVE-2019-5418 분석  
+# 2019-04-06   
+Subdomain Takeover   
+# 2019-04-07   
+Subdomain Takeover   
 
 
 
