@@ -204,6 +204,8 @@ CVE-2019-5418 분석
 Subdomain Takeover   
 # 2019-04-07   
 Subdomain Takeover   
+# 2019-04-08   
+CVE-2019-5418 분석     
 
 
 
